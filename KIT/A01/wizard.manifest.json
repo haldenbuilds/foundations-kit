@@ -1,0 +1,22 @@
+{
+  "standard": "Wizard_Build_Standard_v1",
+  "wizard_id": "a01",
+  "working_title": "The Operator Check",
+  "scope": {"classification": "IN_SCOPE", "packaged_boundary": "Reusable A01 folder", "agentic_execution": "Agent interviews and interprets owner records", "guided_transformation": "Owner evidence becomes a saved audit and continuing plan", "reason": "All three scope predicates apply"},
+  "stages": [
+    {"id": "WB-1", "name": "interview-and-ratify", "input": "interview.schema.json", "activity": "ONBOARDING.md captures answers; owner ratifies SCALE-BRIEF.md", "receipt": "DECISIONS.md#G1", "operator_gate": "G1"},
+    {"id": "WB-2", "name": "audit-sweep-and-choose", "input": "Owner-declared roots and classes from Q4", "activity": "WIZARD.md inventories sources and records each owner disposition in ASSETS.md", "receipt": "DECISIONS.md#G2", "operator_gate": "G2"},
+    {"id": "WB-3", "name": "assess-needed-versus-park", "input": "ASSETS.md", "activity": "Classify every proposed capability in SCOPE.md with owner and wake condition", "receipt": "DECISIONS.md#G3", "operator_gate": "G3"},
+    {"id": "WB-4", "name": "recommend-research", "input": "SCOPE.md and open decisions", "activity": "RESEARCH.md records question, source, recency, use, limits, and owner disposition for each relevant class", "receipt": "DECISIONS.md#G4", "operator_gate": "G4"},
+    {"id": "WB-5", "name": "guide-and-callable-manual", "input": "Ratified brief and stage decisions", "activity": "Use both guides; test supported and unsupported help; owner adopts the exact plan", "receipt": "GUIDE-COVERAGE.md", "operator_gate": "G5"}
+  ],
+  "operator_gates": [
+    {"id": "G1", "owner": "operator", "decision": "ratify-or-revise-specification", "subject": "SCALE-BRIEF.md exact saved version or digest", "record": "DECISIONS.md#G1", "silence_is_approval": false},
+    {"id": "G2", "owner": "operator", "decision": "disposition-existing-assets", "subject": "ASSETS.md exact inventory version or digest", "record": "DECISIONS.md#G2", "silence_is_approval": false},
+    {"id": "G3", "owner": "operator", "decision": "ratify-needed-park-reject", "subject": "SCOPE.md exact version or digest", "record": "DECISIONS.md#G3", "silence_is_approval": false},
+    {"id": "G4", "owner": "operator", "decision": "accept-decline-or-park-research", "subject": "RESEARCH.md exact version or digest", "record": "DECISIONS.md#G4", "silence_is_approval": false},
+    {"id": "G5", "owner": "operator", "decision": "adopt-or-revise-plan", "subject": "SCALE-PLAN.md exact version or digest", "record": "DECISIONS.md#G5", "silence_is_approval": false}
+  ],
+  "guides": {"operator": "OPERATOR-GUIDE.md", "agent": "AGENT-GUIDE.md", "coverage_record": "GUIDE-COVERAGE.md", "help_invocation": "Help: [question]"},
+  "versions": {"practice_only": true, "operator_selects": true, "full": "Not commissioned", "light": "Commissioned A01 package", "agent_built": "Callable instructions included"}
+}

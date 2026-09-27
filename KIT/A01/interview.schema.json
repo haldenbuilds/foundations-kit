@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "a01:interview-v1",
+  "title": "A01 interview schema v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["general_idea", "intended_user", "defined_result", "operator_constraints", "known_unknowns", "success_evidence", "domain_answers"],
+  "properties": {
+    "general_idea": {"type": "string", "minLength": 1},
+    "intended_user": {"type": "string", "minLength": 1},
+    "defined_result": {"type": "string", "minLength": 1},
+    "operator_constraints": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "known_unknowns": {"type": "array", "items": {"type": "string"}},
+    "success_evidence": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "domain_answers": {"type": "object", "description": "Q1 through Q10, with verbatim answer, source, date, period, unit, and unmapped notes. UNKNOWN is an answer, never an omitted field.", "required": ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6", "Q7", "Q8", "Q9", "Q10"], "additionalProperties": {"type": "object", "required": ["answer", "source", "date"], "properties": {"answer": {"type": "string"}, "source": {"type": "string"}, "date": {"type": "string"}, "period": {"type": "string"}, "unit": {"type": "string"}, "notes": {"type": "string"}}}}
+  },
+  "x-wizard": {"stage": "WB-1", "unknown_answer_policy": "Preserve UNKNOWN; stop dependent inference and request the source.", "specification_output": "SCALE-BRIEF.md", "ratification_record": "DECISIONS.md#G1", "ratification_owner": "operator"}
+}
