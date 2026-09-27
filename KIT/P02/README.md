@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Goal and outcome scoreboard
 
 **Use after:** P01,C05

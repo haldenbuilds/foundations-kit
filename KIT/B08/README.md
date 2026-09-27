@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Change, install, and rollback record
 
 **Use after:** C02,B03,B07,P08

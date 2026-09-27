@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Project map and context router
 
 **Use after:** F01,C02,C03

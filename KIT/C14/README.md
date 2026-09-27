@@ -1,10 +1,8 @@
-# C14 | Vendor and tool decision block (DRAFT)
+# C14 | Vendor and tool decision block
 
 **Row ID:** `C14`
 
 **Built tier:** `generic template`
-
-**Copy status:** `DRAFT - wording not yet approved by the kit's maker`
 
 **Purpose:** Give the recipient's agent a source-backed answer path for vendor and tool questions without turning a mention or conditional route into availability.
 

@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 ## Start here
 
 This folder is a kit for an AI agent to work from. If no agent has read it yet:

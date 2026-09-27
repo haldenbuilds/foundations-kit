@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Correction and disagreement protocol
 
 **Use after:** C05,C07

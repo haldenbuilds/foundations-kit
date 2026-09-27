@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `APPROVED-STRINGS`
-
 **Purpose:** Find the current limit, choose a next move, and keep a plan current.
 
 **Use after:** NONE

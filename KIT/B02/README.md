@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Internal review and audit loop
 
 **Use after:** C05,C06,P05,P08

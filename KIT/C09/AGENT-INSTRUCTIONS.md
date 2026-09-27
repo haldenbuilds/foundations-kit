@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Agent instruction file
 
 **Use after:** C01,C02,C03,C11

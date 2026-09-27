@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Working agreement and authority boundary
 
 **Use after:** C01

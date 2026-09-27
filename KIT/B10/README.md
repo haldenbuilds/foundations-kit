@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Health, freshness, and drift check
 
 **Use after:** B01,B02,B07,B08,B11

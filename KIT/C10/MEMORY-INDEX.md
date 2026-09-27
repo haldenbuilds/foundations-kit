@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Memory architecture
 
 **Use after:** C09

@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Weekly numbers and cash sheet
 
 **Use after:** P02,P10,P11

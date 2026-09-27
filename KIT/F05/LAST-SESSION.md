@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Status and memory surfaces
 
 **Use after:** F02,C07,C08,C09

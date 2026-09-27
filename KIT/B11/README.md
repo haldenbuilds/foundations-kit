@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Rule-to-carrier map
 
 **Use after:** C02,C05,B07

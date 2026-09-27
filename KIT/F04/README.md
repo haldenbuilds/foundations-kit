@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Source and reference library with provenance
 
 **Use after:** F01,C03,C06

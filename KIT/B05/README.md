@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Dependency planner and recommended path
 
 **Use after:** B03,P03,F07

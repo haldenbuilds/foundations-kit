@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Cadence and status review
 
 **Use after:** P02,P04,P05,P12

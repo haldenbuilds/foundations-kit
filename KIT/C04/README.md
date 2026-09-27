@@ -4,8 +4,6 @@
 
 **Built tier:** `generic template`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Prompt and task-brief card
 
 **Use after:** C01,C02,C03

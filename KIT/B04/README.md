@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Intake and interview wizard
 
 **Use after:** C04,C06,P01,P03

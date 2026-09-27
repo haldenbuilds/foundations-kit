@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Operator runbook and help guide
 
 **Use after:** B03,B04,B05,P07

@@ -4,8 +4,6 @@
 
 **Built tier:** `fully kitted`
 
-**Copy status:** `PANEL-OWED`
-
 **Purpose:** Bottleneck finder: sales, time, and money
 
 **Use after:** P01,C02
