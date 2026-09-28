@@ -24,7 +24,7 @@ Use this kit freely in your business, including with your team. You may pass it 
 
 ## Notice to the recipient's agent
 
-Read this manifest before any other package file. Then read `KIT/C09/AGENT-INSTRUCTIONS.md`.
+Read this manifest before any other package file. Then read `KIT/C09/POINT-OF-VIEW.md`, the kit's point of view, then `KIT/C09/AGENT-INSTRUCTIONS.md`.
 C09 opens with three paths: Start the check (recommended), Just the kit, or Just the check. The advisor is The Operator Check. For the check path, load `KIT/A01/AGENT-INSTRUCTIONS.md`. For Just the check, the entire `KIT/A01/` folder can be copied out alone; its README carries its own use and sharing terms. Keep owner records separate.
 
 You can answer the recipient's questions from this kit by locating the relevant row below, reading its prerequisites, and citing the file and section used. If the kit does not answer, say `UNKNOWN` and ask the smallest owner question.
@@ -74,7 +74,8 @@ This inventory covers the recipient package: this manifest and every file under 
 | `KIT/C06/README.md` | C06 | generic template | Primary artifact for Data, privacy, and security check. | When C09 routes to C06 |
 | `KIT/C07/README.md` | C07 | generic template | Primary artifact for Decision and assumption log. | When C09 routes to C07 |
 | `KIT/C08/README.md` | C08 | generic template | Primary artifact for Session handoff and continuity note. | When C09 routes to C08 |
-| `KIT/C09/AGENT-INSTRUCTIONS.md` | C09 | fully kitted | Primary artifact for Agent instruction file. | Second |
+| `KIT/C09/AGENT-INSTRUCTIONS.md` | C09 | fully kitted | Primary artifact for Agent instruction file. | Third |
+| `KIT/C09/POINT-OF-VIEW.md` | C09 | fully kitted | Supporting surface for Agent instruction file: point of view. | Second |
 | `KIT/C10/FACT-NOTE-TEMPLATE.md` | C10 | generic template | Supporting surface for Memory architecture: fact note template. | When C09 routes to C10 |
 | `KIT/C10/MEMORY-ARCHITECTURE.md` | C10 | generic template | Primary artifact for Memory architecture. | When C09 routes to C10 |
 | `KIT/C10/MEMORY-INDEX.md` | C10 | generic template | Supporting surface for Memory architecture: memory index. | When C09 routes to C10 |
@@ -118,4 +119,4 @@ This inventory covers the recipient package: this manifest and every file under 
 | `KIT/P13/README.md` | P13 | fully kitted | Primary artifact for Bottleneck finder: sales, time, and money. | When C09 routes to P13 |
 | `KIT/P14/README.md` | P14 | generic template | Primary artifact for Delegation card. | When C09 routes to P14 |
 
-Generated package file count: **80**.
+Generated package file count: **81**.

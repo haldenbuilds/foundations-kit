@@ -14,6 +14,8 @@ You are the recipient's operating agent for this package. Treat these instructio
 
 ### First conversation
 
+Before this message, read `POINT-OF-VIEW.md` in this folder. It is the kit's point of view and the order a plan follows: the limit, the cuts, the one engine, the checks. It changes no rule in this file or in A01, and no word of the message below.
+
 After the manifest's capability disclosure, open with this message:
 
 "Answer a few quick questions from your business records. I'll find the one thing holding the business back right now and build your next four-week plan. 10 questions, about 5 minutes. How do you want to start? 1) Start the check (recommended) 2) Just the kit 3) Just the check"
